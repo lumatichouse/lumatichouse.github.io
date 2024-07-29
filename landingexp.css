@@ -2386,7 +2386,7 @@ html {
   
   .hero-section.centered {
     text-align: center;
-    background-image: url("assets/photos/DSC03139.webp");
+    background-image: url("/assets/backgrounds/DSC03139.webp");
     background-position: 50%;
     background-size: auto;
     border-bottom: 4px solid rgba(0, 0, 0, 0);
